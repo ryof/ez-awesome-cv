@@ -1,0 +1,19 @@
+\cvsection{$title$}
+
+\begin{cventries}
+  $for(education)$
+    \cventry
+      {$education.degree$}
+      {$education.institution$}
+      {$education.location$}
+      {$education.period$}
+      {$if(education.descriptions)$
+        \begin{cvitems}
+          $for(education.descriptions)$
+            \item {$education.descriptions$}
+          $endfor$
+        \end{cvitems}
+      $endif$}
+      
+  $endfor$
+\end{cventries}

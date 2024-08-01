@@ -1,0 +1,17 @@
+---
+firstname: "John"
+lastname: "Doe"
+title:
+  - "Example Engineer"
+  - "Example Architect"
+address:
+  - "42 Whimsical Lane"
+  - "Imagination Square"
+  - "Fantasyland, FL 12345"
+  - "United States of Creativity"
+mobile: "(555) 123-4567"
+email: "example@example.com"
+github: "exampleuser"
+hackerrank: "exampleuser"
+linkedin: "exampleuser"
+---

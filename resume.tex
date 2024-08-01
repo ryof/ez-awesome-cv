@@ -1,0 +1,20 @@
+%!TEX TS-program = xelatex
+%!TEX encoding = UTF-8 Unicode
+
+\documentclass[11pt, a4paper]{awesome-cv-patched}
+% To support Japanese
+\RequirePackage{xeCJK}
+\setCJKmainfont{Noto Sans CJK JP}
+
+\geometry{left=1.4cm, top=.8cm, right=1.4cm, bottom=1.8cm, footskip=.5cm}
+
+\colorlet{awesome}{$awesomecolor$}
+\setbool{acvSectionColorHighlight}{$colorhighlight$}
+
+\begin{document}
+  \input{sections/header/out.tex}
+  \input{sections/footer/out.tex}
+  $for(sections)$
+  \input{sections/$sections$/out.tex}
+  $endfor$
+\end{document}

@@ -1,0 +1,13 @@
+---
+awesomecolor: "awesome-red"
+# Options:
+# awesome-emerald, awesome-skyblue, awesome-red
+# awesome-pink, awesome-orange awesome-nephritis
+# awesome-concrete, awesome-darknight
+colorhighlight: true
+sections:
+  - "summary"
+  - "experience"
+  - "education"
+  - "skills"
+---

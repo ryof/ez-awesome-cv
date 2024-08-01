@@ -1,0 +1,14 @@
+---
+title: Education
+education:
+  - degree: "M.Eng. in Example Engineering"
+    institution: "Example University"
+    location: "Tokyo, Japan"
+    period: "Apr. 2013 - Mar. 2015"
+  - degree: "B.Eng. in Example Engineering"
+    period: "Apr. 2009 - Mar. 2013"
+    descriptions:
+      - "Description goes here. Description goes here. Description goes here."
+      - "Description goes here. Description goes here. Description goes here."
+      - "Description goes here. Description goes here. Description goes here."
+---

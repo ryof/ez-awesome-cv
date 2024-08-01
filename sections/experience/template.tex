@@ -1,0 +1,19 @@
+\cvsection{$title$}
+
+\begin{cventries}
+  $for(experience)$
+    \cventry
+      {$experience.position$}
+      {$experience.organization$}
+      {$experience.location$}
+      {$experience.period$}
+      {$if(experience.descriptions)$
+        \begin{cvitems}
+          $for(experience.descriptions)$
+            \item {$experience.descriptions$}
+          $endfor$
+        \end{cvitems}
+      $endif$}
+      
+  $endfor$
+\end{cventries}

@@ -1,0 +1,38 @@
+---
+title: "Experience"
+experience:
+  - position: "Example Position"
+    organization: "Example, Inc."
+    location: "Tokyo, Japan"
+    period: "Apr. 2022 - Present"
+    descriptions:
+      - "Description goes here. Description goes here. Description goes here."
+      - "Description goes here. Description goes here. Description goes here."
+      - "Description goes here. Description goes here. Description goes here."
+  - position: "Senior Example Position"
+    organization: "Example, Inc."
+    location: "Tokyo, Japan"
+    period: "Jul. 2020 - Mar. 2022"
+  - position: "Example Position"
+    period: "Jan. 2019 - Jun. 2020"
+    descriptions:
+      - "Description goes here. Description goes here. Description goes here."
+      - "Description goes here. Description goes here. Description goes here."
+      - "Description goes here. Description goes here. Description goes here."
+  - position: "Example Position"
+    organization: "Example, Inc."
+    location: "Tokyo, Japan"
+    period: "Dec. 2016 - Apr. 2019"
+    descriptions:
+      - "Description goes here. Description goes here. Description goes here."
+      - "Description goes here. Description goes here. Description goes here."
+      - "Description goes here. Description goes here. Description goes here."
+  - position: "Example Position"
+    organization: "Example, Inc."
+    location: "California, USA"
+    period: "Apr. 2015 - Sep. 2016"
+    descriptions:
+      - "Description goes here. Description goes here. Description goes here."
+      - "Description goes here. Description goes here. Description goes here."
+      - "Description goes here. Description goes here. Description goes here."
+---

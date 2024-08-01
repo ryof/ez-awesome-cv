@@ -1,0 +1,36 @@
+---
+title: "Skills"
+skills:
+  - category: "Programming"
+    items:
+      - "Example"
+      - "Example"
+      - "Example"
+      - "Example"
+      - "Example"
+      - "Example"
+      - "Example"
+  - category: "Tools"
+    items:
+      - "Example"
+      - "Example"
+      - "Example"
+      - "Example"
+      - "Example"
+      - "Example"
+      - "Example"
+      - "Example"
+      - "Example"
+      - "Example"
+  - category: "Expertise"
+    items:
+      - "Example"
+      - "Example"
+      - "Example"
+      - "Example"
+  - category: "Languages"
+    items:
+      - "Example (Native)"
+      - "Example (Proficient)"
+      - "Example (Basic Conversational)"
+---

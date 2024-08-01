@@ -1,0 +1,9 @@
+\cvsection{Skills}
+
+\begin{cvskills}
+  $for(skills)$
+    \cvskill
+      {$skills.category$:}
+      {$for(skills.items)$$skills.items$$sep$, $endfor$}
+  $endfor$
+\end{cvskills}
