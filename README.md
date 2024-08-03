@@ -1,5 +1,5 @@
 # EZ Awesome CV
-You can generate [a beautifully formatted resume by @posquit0](https://github.com/posquit0/Awesome-CV) without the need for LaTeX setup or knowledge, using only YAML configuration.
+You can generate [a beautifully formatted resume by @posquit0](https://github.com/posquit0/Awesome-CV) without the need for LaTeX setup or knowledge, using only YAML configuration. Pandoc is internally used to embed YAML content into the LaTeX template.
 
 ## How to publish
 - Modify the contents in each `content_[lang].yaml` file under the `sections` directory.
