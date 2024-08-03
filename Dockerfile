@@ -8,7 +8,8 @@ RUN apt-get update && \
       texlive-fonts-extra \
       texlive-lang-cjk \
       fonts-noto-cjk \
-      pandoc && \
+      pandoc \
+      patch && \
     rm -rf /var/lib/apt/lists/*
 
 WORKDIR /workspace

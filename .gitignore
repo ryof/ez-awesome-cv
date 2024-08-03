@@ -3,3 +3,4 @@
 *.pdf
 !example_*.pdf
 *out.tex
+awesome-cv-patched.cls
