@@ -13,5 +13,5 @@ docker run --rm -v $(pwd):/workspace ez-awesome-cv my-resume en
 ## License
 This repository contains files licensed under different licenses.
 
-- File `awesome-cv-patched.cls` is licensed under the LaTeX Project Public License (LPPL) 1.3.
+- File `awesome-cv.cls` is licensed under the LaTeX Project Public License (LPPL) 1.3.
 - All other files are licensed under the MIT License.
